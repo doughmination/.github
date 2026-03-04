@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://doughmination.win" target="_blank">
-    <img src="https://raw.githubusercontent.com/doughmination/Doughmination/main/icon.png" width="128" height="128" alt="Doughmination logo" />
+    <img src="https://raw.githubusercontent.com/doughmination/.github/refs/heads/main/images/icon.png" width="128" height="128" alt="Doughmination logo" />
   </a>
 </div>
 
