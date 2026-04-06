@@ -1,13 +1,5 @@
 ## Doughmination
 
-<div align="center">
-  <a href="https://doughmination.win" target="_blank">
-    <img src="https://raw.githubusercontent.com/doughmination/.github/refs/heads/main/images/icon.png" width="128" height="128" alt="Doughmination logo" />
-  </a>
-</div>
-
-Click the butterfly above to access my online space!
-
 Hey there, I'm Doughmination!
 
 ### About me
