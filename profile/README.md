@@ -1,6 +1,8 @@
 ## Doughmination
 
-![image](https://raw.githubusercontent.com/doughmination/.github/refs/heads/main/images/icon.png?size=32)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/doughmination/.github/refs/heads/main/images/icon.png" width="32" height="32">
+</div>
 
 Hey there, I'm Doughmination!
 
