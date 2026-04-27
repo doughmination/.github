@@ -1,7 +1,7 @@
 ## Doughmination
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/doughmination/.github/refs/heads/main/images/icon.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/doughmination/.github/refs/heads/main/images/icon.png" width="128" height="128">
 </div>
 
 Hey there, I'm Doughmination!
