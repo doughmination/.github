@@ -1,5 +1,7 @@
 ## Doughmination
 
+![image](https://raw.githubusercontent.com/doughmination/.github/refs/heads/main/images/icon.png)
+
 Hey there, I'm Doughmination!
 
 ### About me
