@@ -1,6 +1,6 @@
 ## Doughmination
 
-![image](https://raw.githubusercontent.com/doughmination/.github/refs/heads/main/images/icon.png)
+![image](https://raw.githubusercontent.com/doughmination/.github/refs/heads/main/images/icon.png?size=32)
 
 Hey there, I'm Doughmination!
 
